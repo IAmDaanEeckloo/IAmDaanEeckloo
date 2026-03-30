@@ -11,7 +11,7 @@
 
 ### builder · student
 
-[![GitHub followers](https://img.shields.io/github/followers/IAmDaanEeckloo?style=for-the-badge&color=1a1a2e&labelColor=0f0f1a&logo=github)](https://github.com/IAmDaanEeckloo)
+[![GitHub followers](https://img.shields.io/github/followers/IAmDaanE?style=for-the-badge&color=1a1a2e&labelColor=0f0f1a&logo=github)](https://github.com/IAmDaanE)
 [![Profile views](https://komarev.com/ghpvc/?username=IAmDaanEeckloo&style=for-the-badge&color=1a1a2e&labelColor=0f0f1a)](https://github.com/IAmDaanEeckloo)
 
 </div>
