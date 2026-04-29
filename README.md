@@ -18,17 +18,6 @@
 
 ---
 
-```python
-daan = {
-    "location":  "Belgium 🇧🇪",
-    "focus":     ["machine learning", "game dev", "self-hosting"],
-    "currently": "training AI agents & building games in Pygame",
-    "learning":  "PyTorch · NEAT · DQN",
-}
-```
-
----
-
 ## 🛠 Tech Stack
 
 **Languages & Frameworks**
