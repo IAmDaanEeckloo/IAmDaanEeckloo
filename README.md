@@ -9,8 +9,6 @@
 ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚══╝
 ```
 
-</div>
-
 ### builder · student
 
 [![GitHub followers](https://img.shields.io/github/followers/IAmDaanE?style=for-the-badge&color=1a1a2e&labelColor=0f0f1a&logo=github)](https://github.com/IAmDaanE)
