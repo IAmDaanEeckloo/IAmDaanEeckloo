@@ -23,6 +23,7 @@
 **Languages & Frameworks**
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-376236?style=for-the-badge&logo=python&logoColor=white)
 
