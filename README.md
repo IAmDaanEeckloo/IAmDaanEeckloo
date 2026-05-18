@@ -26,10 +26,13 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-376236?style=for-the-badge&logo=python&logoColor=white)
+![Textual](https://img.shields.io/badge/Textual-1a1a2e?style=for-the-badge&logo=python&logoColor=white)
+![Socket](https://img.shields.io/badge/Socket-2C2C54?style=for-the-badge&logo=python&logoColor=white)
 
 **Databases & Backend**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
